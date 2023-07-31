@@ -1,0 +1,34 @@
+= Nvim -- a Vim fork with modern asynchronous architecture, extensibility focus, standalone design, and synergy with VSCode extensions 
+:backend: asciidoctor
+:github-flavored:  // enables GitHub-specific features like tables, task lists, and fenced code blocks
+ifndef::env-github[:icons: font]
+ifdef::env-github[]
+// Naughty Waco Temps
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+:caution-caption: :fire:
+:important-caption: :exclamation:
+endif::[]
+:toc: // gets a ToC after the title
+:toclevels: 1
+// :sectnums: // gets ToC sections to be numbered
+:sectnumlevels: 3 // max # of numbering levels
+
+== Discover
+
+https://neovim.io/
+
+== Learn
+
+Tutorial: +
+https://github.com/shellspec/shellspec/tree/master
+
+== Cultivate
+
+
+== Develop & Deploy, Master
+
+
+== Todo
+
